@@ -12,6 +12,9 @@ class Float
   end
 end
 
+###### This is for finding the length of all the branches on a home made tree,
+###### starting from the bottom branch
+
 @branches = []
 
 def calculate_branches(a, b)
